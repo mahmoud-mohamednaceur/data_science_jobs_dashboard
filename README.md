@@ -164,4 +164,5 @@ To enhance user experience and flexibility, the dashboard will include global fi
 
 
 
-[dashboard.pptx](https://github.com/user-attachments/files/17643560/dashboard.pptx)
+<img width="691" alt="image" src="https://github.com/user-attachments/assets/4c761f65-94ee-4c94-ae2b-67fe7e330b56">
+
