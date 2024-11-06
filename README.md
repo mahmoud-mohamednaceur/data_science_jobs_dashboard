@@ -162,8 +162,6 @@ To enhance user experience and flexibility, the dashboard will include global fi
 | Is the page layout visually appealing on multiple Screentypes | JA |
 | Does the Dashboard contain  legends or labels for all charts ? | No |
 
-Dashboard 
 
-[DataScience.pptx](https://prod-files-secure.s3.us-west-2.amazonaws.com/a6b5fd66-175b-49b1-8622-0b4383e2a145/400a531c-58ec-4e40-9132-2cb2d5d89654/DataScience.pptx)
 
-[DataScience.twb](https://prod-files-secure.s3.us-west-2.amazonaws.com/a6b5fd66-175b-49b1-8622-0b4383e2a145/157b1d59-f68c-4894-b0ca-b4bd0a5f47e2/DataScience.twb)
+[dashboard.pptx](https://github.com/user-attachments/files/17643560/dashboard.pptx)
